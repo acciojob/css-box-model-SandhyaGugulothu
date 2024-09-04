@@ -1,9 +1,12 @@
 
 /* Your CSS Code here. */
-div {
+p{
 	width:300px;
 	background-color:lightblue;
 	border:solid 15px blue;
 	padding:50px;
+	margin:20px;
+}
+div{
 	margin:20px;
 }
